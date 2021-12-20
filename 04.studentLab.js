@@ -1,3 +1,4 @@
+// NEED TO FIX SOME BUGS
 /* A teacher has created a gradeLabs function that verifies if student programming labs work. 
 This function loops over an array of JavaScript objects that should contain a student property and runLab property. 
 The runLab property is expected to be a function containing the student's code. 
