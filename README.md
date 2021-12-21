@@ -30,3 +30,7 @@ called and the result is compared to the expected result. If the result and expe
 then the lab is considered a failure.
 
 [04.studentLab.js](04.studentLab.js)
+
+## 05. Regular Expressions
+
+[05.regExp.js](05.regExp.js)
