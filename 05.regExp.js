@@ -11,4 +11,4 @@ myRegExp.test(" 4983") false
 */
 
 let myRegExp = /^(\d{4}|\d{6} )$/;
-console.log(myRegExp.test("1234"));
+console.log(myRegExp.test("12345"));
