@@ -10,16 +10,10 @@
 let string = "Menak kanem";
 
 function reverseStr(s) {
-  let reversed;
-  try {
-    reversed = s.split("").reverse().join("");
-    return reversed;
+    try {
+    return s.split("").reverse().join("")
   } catch (err) {
-    console.log(
-      `Your input is ${s} which is type of ${typeof s} but it must be STRING `
-    );
-  } finally {
-    return s;
-  }
+    return `Your input is ${s} which is type of ${typeof s} but it must be STRING `
+  } 
 }
 console.log(reverseStr(25));
